@@ -6,13 +6,17 @@ p {
   line-height: 1.5em;
 }
 
-figcaption{
+figcaption {
   font:normal 0.75em/1.5em 'Elsie Swash Caps', cursive;
   color:#777;
   text-align: right;
 }
-.milk-text{
+.milk-text {
   font:bold 2.6em 'Elsie Swash Caps', cursive;
   color:white;
   text-shadow:0 2px 3px black;
 }
+ #logo {
+   background-color:aqua;
+
+ }
